@@ -43,4 +43,42 @@ The first step will be learning how to develop a basic 2D platformer using Pygam
 character jumping mechanics, and collision detection with platforms and obstacles. Additionally, I will need to research how to generate random platforms and control their speed, as well as how to design enemies 
 that move and interact with the player. If collaborating, one teammate could focus on developing the platform and character mechanics, while another could handle the AI and enemy behaviors. Another teammate might focus on integrating sound effects, animations, and implementing the scoring and high-score system.
 
+PROGRESS REPORT
 
+  # Status Report
+
+#### Your name
+
+Adam Khan
+
+#### Your section leader's name
+
+Adam Khan
+
+#### Project title
+
+Doodle Jump Simulator
+
+***
+
+Short answers for the below questions suffice. If you want to alter your plan for your project (and obtain approval for the same), be sure to email your section leader directly!
+
+#### What have you done for your project so far?
+
+I have made significant progress on the Doodle Jump game. So far, I have implemented the following features:
+The player character (Doodle) is fully functional and can jump from platform to platform.
+The game includes random platform generation, with platforms appearing at varying heights and distances.
+I’ve added basic physics for gravity and player jumping mechanics.
+The game has collision detection, ensuring the player bounces off the platforms correctly.
+
+#### What have you not done for your project yet?
+
+I still need to finalize the visual design and UI elements, including the game over screen, pause menu, and restart functionality.
+I plan to add power-ups (such as speed boosts) and different platform types (moving platforms, etc.) to enhance the gameplay.
+I need to implement a high-score tracking system that saves and displays the highest score.
+Some additional polish and optimization are needed to smooth out the player’s controls.
+
+#### What problems, if any, have you encountered?
+
+One challenge I faced was getting the physics to feel natural. Fine-tuning the jump and gravity mechanics took some time.
+There were a few issues with platform collision detection where the player would sometimes overlap or pass through platforms. This required some adjustments to the hit detection logic.
